@@ -8,7 +8,6 @@ title:  "A Novel Hybrid Kernel Symbolic Execution Framework For Malware Analysis
 
 ![topline](/images/top-line.png)
 
-<br/>
 
 * <span style="color:red"> We are hiring! One postdoc position and one research engineer position are open! </span> Interested applicants can contact [Prof. Ding](mailto:xhding@smu.edu.sg) or [Prof. Jiang](mailto:lxjiang@smu.edu.sg) for details.  
 
