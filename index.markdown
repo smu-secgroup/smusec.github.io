@@ -27,7 +27,7 @@ title:  "A Novel Hybrid Kernel Symbolic Execution Framework For Malware Analysis
 ## <span style="text-decoration: underline">Reseachers</span>
 
 * [Xuhua Ding](http://www.mysmu.edu/faculty/xhding/)
-* [Lingxiao Jiang](https://www.mysmu.edu/faculty/lxjiang/)
+* [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/)
 * Jiaqi Hong 
 * Hoang Minh Nguyen 
   
